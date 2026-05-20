@@ -175,7 +175,7 @@ A tecnologia será essencial para alimentar uma população mundial crescente de
 
 ---
 
-# 👨‍💻 Autor
+# 👨‍💻 Autor: Murilo
 
 Projeto desenvolvido para o concurso "Agrinho".
 
